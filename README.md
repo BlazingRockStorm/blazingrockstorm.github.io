@@ -5,6 +5,9 @@
 - AWS Certified Developer - Associate(03/2022 - 03/2025)
 # Links
 https://www.facebook.com/rocker.gryphon
+
 https://www.instagram.com/gryqhon_origami/
+
 https://www.linkedin.com/in/hoang-quan-8418a7155/
+
 https://www.credly.com/users/duc-quan-hoang/badges
