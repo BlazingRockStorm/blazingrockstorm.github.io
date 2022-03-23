@@ -2,8 +2,9 @@
 
 # Education and works
 ## Education
-- 2011-2014 HUS High School for Gifted Students - Math Speciality
-- 2014-2019 Hanoi University of Science and Technology - HEDSPI Project, Engineer Degree in IT
+- **2011-2014** HUS High School for Gifted Students - Math Speciality
+- **2014-2019** Hanoi University of Science and Technology - HEDSPI Project, Engineer Degree in IT
+
 ## Works
 
 Ongoing....
