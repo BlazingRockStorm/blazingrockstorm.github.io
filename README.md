@@ -1,6 +1,12 @@
 # About me
 
 # Education and works
+## Education
+- 2011-2014 HUS High School for Gifted Students - Math Speciality
+- 2014-2019 Hanoi University of Science and Technology - HEDSPI Project, Engineer Degree in IT
+## Works
+
+Ongoing....
 
 # My IT blogs
 
@@ -33,6 +39,8 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
 <iframe width="320" height="480" src="https://www.instagram.com/p/B26Zr4KF5tk/embed"></iframe>
 
 # My Playing Music
+
+Ongoing...
 
 # Links
 
