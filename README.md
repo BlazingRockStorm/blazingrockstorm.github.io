@@ -30,14 +30,12 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
 
 # Origami showcase
 
-<iframe width="320" src="https://www.instagram.com/p/B26Zr4KF5tk/embed" frameborder="0"></iframe>
+<iframe width="320" height="450" src="https://www.instagram.com/p/B26Zr4KF5tk/embed" frameborder="0"></iframe>
 
 # My Playing Music
 
 # Links
 
 [Facebook](https://www.facebook.com/rocker.gryphon)
-
-[Instagram](https://www.instagram.com/gryqhon_origami/)
 
 [Linkedin](https://www.linkedin.com/in/hoang-quan-8418a7155/)
