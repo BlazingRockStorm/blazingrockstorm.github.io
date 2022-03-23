@@ -30,7 +30,7 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
 
 # Origami showcase
 
-<iframe width="320" height="440" src="https://www.instagram.com/gryqhon_origami?utm_medium=copy_link/embed" frameborder="0"></iframe>
+<iframe width="320" height="440" src="https://www.instagram.com/gryqhon_origami?utm_source=ig_embed" frameborder="0"></iframe>
 
 # My Playing Music
 
