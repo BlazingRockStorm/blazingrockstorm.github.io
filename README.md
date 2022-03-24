@@ -1,13 +1,27 @@
 # About me
+An engineer, an origami crafter and a drum & percussion player. Born in Hanoi. Living in Japan since 2020
+
+As an engineer, I love Ruby on Rails, AWS, ReactJS and Scrum.
+
+As an origami crafter, I have my own Instagram of origami show cases.
+
+As a drummer, well, I learning and practicing myself and hope to be on a band in Tokyo. My favorite artists are Buc Tuong, Microwave(from Vietnam), Linkin Park, Avenged Sevenfold(US-UK), SCANDAL, X Japan and One OK Rock(Japan)
 
 # Education and works
 ## Education
 - **2011-2014** HUS High School for Gifted Students - Math Speciality
 - **2014-2019** Hanoi University of Science and Technology - HEDSPI Project, Engineer Degree in IT
 
+## Internships
+- **11/2016-09/2017** Ominext JSC(now Ominext Group), front-end intern
+- **06/2018-08/2018** Alt Plus Vietnam(now Extreme Vietnam), PHP intern
+- **06/2019-08/2019** Sun Asterisk Vietnam, Ruby intern
+
 ## Works
 
-Ongoing....
+- **02/2020-07/2021** Actindi, Web Engineer
+- **08/2021-03/2022** VNEXT JAPAN, System Engineer
+- **04/2022-now** VTI JAPAN, System Engineer
 
 # My IT blogs
 
@@ -41,7 +55,7 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
 
 # My Playing Music
 
-Ongoing...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PktNSE1HpHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Links
 
