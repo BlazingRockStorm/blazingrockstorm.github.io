@@ -48,6 +48,10 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
  ![](assets/img/aws-certified-developer-associate.png)
   
    AWS Certified Developer - Associate(03/2022 - 03/2025)
+   
+ ![](assets/img/professional-scrum-developer-i-psd-i.png)
+ 
+   Professional Scrum Developer™ I (PSD I)
 
 # Origami showcase
 
