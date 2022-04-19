@@ -29,6 +29,8 @@ As a drummer, well, I learning and practicing myself and hope to be on a band in
 
 - [Blogs at Actindi](https://tech.actindi.net/archive/category/quan)
 
+- [Blogs at VTI](https://vtitech.vn/tag/gryqhon/)
+
 # Certs and badges
 
 All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
