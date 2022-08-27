@@ -55,6 +55,10 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) :
  
    Professional Scrum Developer™ I (PSD I)
 
+ ![](assets/img/ruby-silver-v21.png)
+ 
+   Ruby Association Certified Ruby Programmer Silver
+
 # Origami showcase
 
 <iframe width="320" height="480" src="https://www.instagram.com/p/B26Zr4KF5tk/embed"></iframe>
