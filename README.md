@@ -37,23 +37,23 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
 
  ![](assets/img/aws-certified-solutions-architect-associate.png)
   
-  AWS Certified Solutions Architect - Associate(04/2021 - 04/2024)
+  [AWS Certified Solutions Architect - Associate(04/2021 - 04/2024)](https://www.credly.com/badges/17efe8cf-9ea6-459f-ade9-dc22fff82000)
 
  ![](assets/img/professional-scrum-master-i-psm-i.png)
   
-   Professional Scrum Master I
+   [Professional Scrum Master I](https://www.credly.com/badges/02b796b7-b597-4cd7-b0d5-c547de1e23d4)
 
  ![](assets/img/professional-scrum-master-ii-psm-ii.png)
   
-   Professional Scrum Master II
+   [Professional Scrum Master II](https://www.credly.com/badges/142143ea-9211-420d-b94a-27632578dc0f)
 
  ![](assets/img/aws-certified-developer-associate.png)
   
-   AWS Certified Developer - Associate(03/2022 - 03/2025)
+   [AWS Certified Developer - Associate(03/2022 - 03/2025)](https://www.credly.com/badges/35bcfa40-10ae-420f-8e7c-3dd35c1c16aa)
    
  ![](assets/img/professional-scrum-developer-i-psd-i.png)
  
-   Professional Scrum Developer™ I (PSD I)
+   [Professional Scrum Developer™ I (PSD I)](https://www.credly.com/badges/64c9b6c3-ce14-407c-ba93-174d6eb15d14)
 
  ![](assets/img/ruby-silver-v21.png)
  
