@@ -55,7 +55,7 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
  
    [Professional Scrum Developer™ I (PSD I)](https://www.credly.com/badges/64c9b6c3-ce14-407c-ba93-174d6eb15d14)
 
- ![](assets/img/ruby-silver-v21.png)
+ ![](assets/img/logo_silver_v21.png)
  
    [Ruby Association Certified Ruby Programmer Silver](https://www.credential.net/d6b90bcc-0a14-4039-94ba-5443ea9dd343)
 
