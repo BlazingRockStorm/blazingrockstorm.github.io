@@ -59,6 +59,10 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
  
    [Ruby Association Certified Ruby Programmer Silver](https://www.credential.net/d6b90bcc-0a14-4039-94ba-5443ea9dd343)
 
+ ![](assets/img/scaled-professional-scrum-sps.png)
+   
+   [Scaled Professional Scrum™ (SPS)](https://www.credly.com/badges/677aab13-e8b3-46e7-b93f-d1ac003f26c9)
+
 # Origami showcase
 
 <iframe width="320" height="480" src="https://www.instagram.com/p/CjmSdSzp__8/embed/"></iframe>
