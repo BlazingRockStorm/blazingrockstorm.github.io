@@ -63,7 +63,7 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
    
    [Scaled Professional Scrum™ (SPS)](https://www.credly.com/badges/677aab13-e8b3-46e7-b93f-d1ac003f26c9)
    
- ![](assets/img/Ruby Gold.png)
+ ![](assets/img/Ruby&#32;Gold.png)
  
    [Ruby Association Certified Ruby Programmer Gold](https://www.credential.net/3c8a0b29-cc9d-4249-a148-ddf1800e53d9)
 
