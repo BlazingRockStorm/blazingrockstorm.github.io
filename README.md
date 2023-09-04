@@ -3,10 +3,6 @@ An engineer, an origami crafter and a drum & percussion player. Born in Hanoi. L
 
 As an engineer, I love Ruby on Rails, AWS, ReactJS and Scrum.
 
-As an origami crafter, I have my own Instagram of origami show cases.
-
-As a drummer, well, I learning and practicing myself and hope to be on a band in Tokyo. My favorite artists are Buc Tuong, Microwave(from Vietnam), Linkin Park, Avenged Sevenfold(US-UK), SCANDAL, X Japan and One OK Rock(Japan)
-
 # Education and works
 ## Education
 - **2011-2014** HUS High School for Gifted Students - Math Speciality
@@ -67,16 +63,14 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
  
    [Ruby Association Certified Ruby Programmer Gold](https://www.credential.net/3c8a0b29-cc9d-4249-a148-ddf1800e53d9)
 
-# Origami showcase
+# Hobbies
 
-<iframe width="320" height="480" src="https://www.instagram.com/p/CjmSdSzp__8/embed/"></iframe>
+As an origami crafter, I have my own Instagram of origami show cases.
 
-# My Playing Music
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PktNSE1HpHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+As a drummer, well, I learning and practicing myself and hope to be on a band in Tokyo. My favorite artists are Buc Tuong, Microwave(from Vietnam), Linkin Park, Avenged Sevenfold(US-UK), SCANDAL, X Japan and One OK Rock(Japan)
 
 # Links
 
-[Facebook](https://www.facebook.com/rocker.gryphon)
+https://blazingrockstorm.github.io/
 
 [Linkedin](https://www.linkedin.com/in/hoang-quan-8418a7155/)
