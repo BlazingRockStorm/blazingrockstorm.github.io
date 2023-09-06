@@ -69,8 +69,10 @@ As an origami crafter, I have my own Instagram of origami show cases.
 
 As a drummer, well, I learning and practicing myself and hope to be on a band in Tokyo. My favorite artists are Buc Tuong, Microwave(from Vietnam), Linkin Park, Avenged Sevenfold(US-UK), SCANDAL, X Japan and One OK Rock(Japan)
 
-# Links
+# Email and links
 
-https://blazingrockstorm.github.io/
+Email: quanhoangd129@gmail.com
+
+[](https://blazingrockstorm.github.io/)
 
 [Linkedin](https://www.linkedin.com/in/hoang-quan-8418a7155/)
