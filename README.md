@@ -73,6 +73,6 @@ As a drummer, well, I learning and practicing myself and hope to be on a band in
 
 Email: quanhoangd129@gmail.com
 
-[](https://blazingrockstorm.github.io/)
+https://blazingrockstorm.github.io/
 
-[Linkedin](https://www.linkedin.com/in/hoang-quan-8418a7155/)
+https://www.linkedin.com/in/hoang-quan-8418a7155/
