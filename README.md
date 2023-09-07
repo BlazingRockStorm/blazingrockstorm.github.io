@@ -15,7 +15,7 @@ As an engineer, I love Ruby on Rails, AWS, ReactJS and Scrum.
 
 ## Works
 
-1. **02/2020-07/2021** Actindi, Web Engineer
+### **02/2020-07/2021** Actindi, Web Engineer
 
 Improve the operation of Iko-repo and Iko-yo services
 - Investigate site traffic with NewRelic, DataDog
@@ -28,7 +28,7 @@ Improve the operation of Iko-repo and Iko-yo services
 - IkoRepo project:
   - Update Rails version
 
-2. **08/2021-03/2022** VNEXT JAPAN, System Engineer
+### **08/2021-03/2022** VNEXT JAPAN, System Engineer
 
 - Project: Recruitment system
 
@@ -38,7 +38,7 @@ Responsibilities: Using AWS services (Data Pipeline, Glue ETL, Athena) to migrat
 
 Environment: AWS
 
-3. **04/2022-now** VTI JAPAN, System Engineer
+### **04/2022-now** VTI JAPAN, System Engineer
 
 - Project: FHIR system 
 
@@ -82,11 +82,11 @@ Environment: Java, Windows
 
 # My IT blogs
 
-- [Viblo](https://viblo.asia/u/devil_boom_129)
+- https://viblo.asia/u/devil_boom_129
 
-- [Blogs at Actindi](https://tech.actindi.net/archive/category/quan)
+- https://tech.actindi.net/archive/category/quan
 
-- [Blogs at VTI](https://vtitech.vn/tag/gryqhon/)
+- https://vtitech.vn/tag/gryqhon/
 
 # My Ruby Exam courses
 
