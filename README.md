@@ -15,9 +15,53 @@ As an engineer, I love Ruby on Rails, AWS, ReactJS and Scrum.
 
 ## Works
 
-- **02/2020-07/2021** Actindi, Web Engineer
-- **08/2021-03/2022** VNEXT JAPAN, System Engineer
-- **04/2022-now** VTI JAPAN, System Engineer
+1. **02/2020-07/2021** Actindi, Web Engineer
+
+Ikoyo, improve the operation of the service called Ikorepo
+- Investigate site traffic with NewRelic, DataDog
+- Deploy with CodePipeline
+- Write code and unit tests to improve product operations
+- Ikoyo's case:
+  - Update Rails version
+  - SEO improvement
+  - Ikoyo Premium
+- IkoRepo project:
+  - Update Rails version
+
+1. **08/2021-03/2022** VNEXT JAPAN, System Engineer
+- Project: Recruitment system
+System overview: from your current multiple systems
+
+Responsibilities: Using AWS services (Data Pipeline, Glue ETL, Athena) to migrate data from CSV files into AWS Auroura Postgres SQL
+
+Environment: AWS
+
+1. **04/2022-now** VTI JAPAN, System Engineer
+- Project: FHIR system 
+System overview: processing medical data to FHIR standards 
+Role: Systems Engineer 
+Responsibilities: Serverless Framework, AWS services (Lambda, Step Functions, API Gateway), C#.
+Environment: AWS
+
+- Project: Legacy Code Project
+System Overview: Add new functions according to customer requests
+Role: Systems Engineer 
+Responsibility: Customer code language that is a legacy code system, no documentation and the macros' and variables' name in Japanese.
+Environment: Windows
+
+ - Project: Administrative document management system
+System overview: System for managing administrative documents
+Role: Business Analyst 
+Responsibilities: Summarize customer wishes and feedback, organize offshore development team
+Communicate progress and manage offshore child team (3 people)
+
+ - Project: Air ticket sales system 
+System overview: Air tickets, hotels, taxis, sightseeing tickets, etc.
+
+Role: Programmer
+Responsibilities: Programming, writing unit tests, integration testing
+
+Environment: Java, Windows
 
 # My IT blogs
 
@@ -26,6 +70,12 @@ As an engineer, I love Ruby on Rails, AWS, ReactJS and Scrum.
 - [Blogs at Actindi](https://tech.actindi.net/archive/category/quan)
 
 - [Blogs at VTI](https://vtitech.vn/tag/gryqhon/)
+
+# My Ruby Exam courses
+
+- https://learn.viblo.asia/en/courses/ruby-association-certified-ruby-programmer-silver-ruby-silver-wMvbmOeYAl
+
+- https://learn.viblo.asia/en/courses/ruby-association-certified-ruby-programmer-gold-ruby-gold-4openRe7Az
 
 # Certs and badges
 
