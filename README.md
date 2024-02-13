@@ -67,6 +67,10 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
  
    [Ruby Association Certified Ruby Programmer Gold](https://www.credential.net/3c8a0b29-cc9d-4249-a148-ddf1800e53d9)
 
+ ![](assets/img/professional-scrum-with-kanban-i-psk-i.png)
+   
+   [Professional Scrum™ with Kanban I (PSK I)](https://www.credly.com/badges/15fdbca9-e0e7-4380-9204-b66a4904dc94)
+
 # Origami showcase
 
 <iframe width="320" height="480" src="https://www.instagram.com/p/CjmSdSzp__8/embed/"></iframe>
