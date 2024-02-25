@@ -7,6 +7,9 @@ As an origami crafter, I have my own Instagram of origami show cases.
 
 As a drummer, well, I learning and practicing myself and hope to be on a band in Tokyo. My favorite artists are Buc Tuong, Microwave(from Vietnam), Linkin Park, Avenged Sevenfold(US-UK), SCANDAL, X Japan and One OK Rock(Japan)
 
+
+[![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gryqhon)
+
 # Education and works
 ## Education
 - **2011-2014** HUS High School for Gifted Students - Math Speciality
@@ -78,6 +81,7 @@ All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredi
 # My Playing Music
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PktNSE1HpHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Links
 
