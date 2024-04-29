@@ -38,7 +38,7 @@ Responsibilities: Using AWS services (Data Pipeline, Glue ETL, Athena) to migrat
 
 Environment: AWS
 
-### **04/2022-now** VTI JAPAN, System Engineer
+### **04/2022-09/2023** VTI JAPAN, System Engineer
 
 - Project: FHIR system 
 
@@ -79,6 +79,26 @@ Role: Programmer
 Responsibilities: Programming, writing unit tests, integration testing
 
 Environment: Java, Windows
+
+### **09/2023-now** NeoX Asia, Lead Engineer
+
+- Head of all R&D projects of the company
+
+- Manage all accounts of development for the company like Github, AWS, AppStore and Google Playstore
+
+- Training new members
+
+- Interview the interns and part-time for the company(the company is still small, so mainly part-time and interns)
+
+- IT administrator, technical support for all projects, technical advisor for the CEO
+
+- Project: Attendance management system
+  - Techstack: NodeJS, MongoDB, MSSQL, Redis, .NET, Vue, Flutter, AWS, Nexusフレームワーク, GitLab, GitHub
+  - DevOps
+  - Deploy the product into AWS, AppStore TestFlight
+  - Setup Gitflow
+  - Setup domain
+  - Deploy team leader(using the concept from Nexus integration team)
 
 # My IT blogs
 
