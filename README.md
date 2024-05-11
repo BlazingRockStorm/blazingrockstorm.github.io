@@ -23,8 +23,7 @@ As a drummer, well, I learning and practicing myself and hope to be on a band in
 ## Works
 
 - **02/2020-07/2021** Actindi, Web Engineer
-- **08/2021-03/2022** VNEXT JAPAN, System Engineer
-- **04/2022-now** VTI JAPAN, System Engineer
+- **08/2021-09/2023** VTI JAPAN, System Engineer
 
 # My IT blogs
 
