@@ -33,6 +33,10 @@ As a drummer, well, I learning and practicing myself and hope to be on a band in
 
 - [Blogs at VTI](https://vtitech.vn/tag/gryqhon/)
 
+# Joined in as contestant Hackathon
+
+- U30限定！PR TIMES HACKATHON
+
 # Certs and badges
 
 All at [Credly](https://www.credly.com/users/duc-quan-hoang/badges) and [Accredible Credential](https://www.credential.net/profile/hoangquan691429/wallet):
